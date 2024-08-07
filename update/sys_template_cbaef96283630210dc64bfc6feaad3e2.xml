@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <groups name="Service Desk">d625dccec0a8016700a222a0f7900d06</groups>
+        <link_element/>
+        <name>Big Idea Inquiry</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description/>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 07:47:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cbaef96283630210dc64bfc6feaad3e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Big Idea Inquiry</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_template_cbaef96283630210dc64bfc6feaad3e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 07:47:49</sys_updated_on>
+        <table>incident</table>
+        <template>assignment_group=d625dccec0a8016700a222a0f7900d06^category=inquiry^close_code=Solution provided^close_notes=Please see contest rules and instructions provided.^contact_type=phone^impact=3^short_description= How do I participate in the Big Idea contest?^state=1^urgency=3^comments=Go to the Employee Center Portal, and search for Big Idea.&#13;
+Select the Big Idea catalog item.&#13;
+Fill out the form and submit.&#13;
+You are allowed to submit as many ideas as you would like.&#13;
+The contest will be open until the first of next month.&#13;
+At that time, IT will prioritize the submissions and announce the top 5 winners.&#13;
+Each of the top 5 winners will receive a $100 gift card.&#13;
+Good luck!^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+</record_update>
